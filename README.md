@@ -80,7 +80,7 @@ Example of an animal singing pattern:
 <audio
 src="birdsong.wav"
 class="wikilink" controls=""><a
-href="iNaturalist-media/ccfc2436d326395abd812c0c7ab6c4654d726284.wav">birdsong2.wav</a></audio>
+href="birdsong.wav">birdsong.wav</a></audio>
 \### Stage 2 Uploading your observations
 
 ##### How to login
