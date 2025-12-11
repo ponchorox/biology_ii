@@ -26,7 +26,7 @@ iNaturalist allows photos and audio. Video can be uploaded and will be converted
 Organisms should be photographed with as much detail as possible, photographs with long distance lenses are recommended but modern phone cameras allow us to zoom in on animals that might flee when approached. Other organisms may allow us to photograph from closer distances but proceed with caution if they are venomous. Plants are usually safe to photograph but there are multiple photos one needs to take to have all required information for them to be identified. Corpses of animals may be infectious so it's recommended to avoid direct handling of them if you are still interested in making an observation try to wear gloves and wash your hands.
 
 <img
-src="iNaturalist-media/c2ca448d931523f898d4b4a229dc0f3833b087fe.png"
+src="image.png"
 class="wikilink" alt="439x307" />
 \##### Photographing animal evidence
 The following types of photographs are allowed on the platform.
