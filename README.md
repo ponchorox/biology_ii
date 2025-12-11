@@ -50,7 +50,7 @@ class="wikilink" alt="458x357" />
 
 Footprints and feces of animals are very helpful as evidence of presence but it is adviced to place an element to be able to determine their size, a ruler is optimal but anything which can later be used to measure it comparatively is useful as well, for instance a pen.
 <img
-src="iNaturalist-media/a42d56ef53b7217804c4afc78a1cab107570dc7a.png"
+src="media/image-2.png"
 class="wikilink" alt="363x241" />
 \##### Photographing plant evidence
 Students are encouraged to photograph plants as well as animals, they are easy to photograph since they don't move but one does need to be careful with capturing enough information in the photos, to allow for identification, it is recommended to take photos of all possible characteristics from the following list:
@@ -66,10 +66,10 @@ Students are encouraged to photograph plants as well as animals, they are easy t
 
 Examples of features that will help identify species:
 <img
-src="iNaturalist-media/6286f984db5f4964f33aaa40f3dc5bbd5ccf922b.png"
+src="media/image-3.png"
 class="wikilink" alt="image-3.png" />
 <img
-src="iNaturalist-media/0c2567d7b750b8620528f6399c697dbf5d9224f0.png"
+src="media/image-4.png"
 class="wikilink" alt="309x445" />
 Plants in our state and city that are poisonous are rare but it is adviced to research information about local poisonous plants if you will be traveling outside of the city.
 \##### Taking audio evidence
@@ -109,11 +109,11 @@ In order to upload an observation as an entry please follow the following steps 
 
 Click on **Cargar** on the top right corner to bring up the upload menu.
 <img
-src="iNaturalist-media/a60890d7d2f640ddcc4401eefeb6a73ddac70a7e.png"
+src="media/image-5.png"
 class="wikilink" alt="320x174" />
 You may drag your files if you are on a computer or you may click **Selecciona archivos** to bring up the file explorer menu on your device, browse to the folder containing your photo, audio file or video (which will be converted to audio) and select them. You may upload more than 1 file per observation as long as it's from the same organism. Once you upload the files you should see a preview that looks like the following image.
 <img
-src="iNaturalist-media/920cbe151b75c5c9b23f32fcafd24a7dfa20da90.png"
+src="media/image-6.png"
 class="wikilink" alt="199x280" />
 
 Click on **Nombre de las especies** to select an identification of your own, the website has image AI and is usually able to determine at least the broad taxa of the species up until the family or genus category, for instance in the given example the AI suggests the genus *Camaleones o Lagartijas Cornudas Genero Phrynosoma* as well as two different species, since we don't really know the species yet let's just select the genus is suggesting. If this happened to be wrong we can always correct it so it's not a big issue.
