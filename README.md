@@ -14,7 +14,8 @@ The purpose of this activity is to allow students to interact with the platform 
 ## Methodology
 
 The following methodology will be separated in stages to help reduce overload during the last partial. Students should focus on fulfilling stage 1 of their work before the end of block 3 which will be at the end of May and advancing with the rest of the stages as much as possible before the beginning of the third partial.
-\### Stage 1 Collecting Observations
+
+### Stage 1 Collecting Observations
 
 iNaturalist allows photos and audio. Video can be uploaded and will be converted to audio automatically. Entries will require some basic information regarding **LOCATION** and **DATE** so make sure to collect this information. Exact location can be obscured or set up to private in entries by the platform for several reasons including safety so don't be afraid to register coordinates.
 
